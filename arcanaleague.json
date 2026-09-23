@@ -1,6 +1,6 @@
 {
 	"Name": "Arcana League",
-	"Version": 1788454683,
+	"Version": 1790139777,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -273,6 +273,7 @@
 				"109",
 				"287",
 				"120",
+				"121",
 				"124",
 				"127",
 				"36"
@@ -521,7 +522,9 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0
+				0,
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -630,7 +633,9 @@
 				}
 			},
 			"SurvivorOfferings": [
-				3
+				0,
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -692,7 +697,10 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						8,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": [
@@ -712,7 +720,9 @@
 				}
 			},
 			"SurvivorOfferings": [
-				3
+				0,
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -825,7 +835,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"56"
 			],
 			"BalanceTiers": [
 				0,
@@ -897,7 +907,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -1091,7 +1101,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -1161,7 +1171,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"39"
 			],
 			"BalanceTiers": [
 				0,
@@ -1314,6 +1324,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -1325,7 +1337,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"11"
 			],
 			"BalanceTiers": [
 				0,
@@ -1394,7 +1406,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1472,7 +1484,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"20"
 			],
 			"BalanceTiers": [
 				0,
@@ -1542,7 +1554,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"13"
 			],
 			"BalanceTiers": [
 				0,
@@ -1843,7 +1855,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
@@ -1869,6 +1886,8 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -1880,7 +1899,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2050,7 +2069,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2122,7 +2141,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -2241,7 +2260,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -2463,7 +2482,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2691,7 +2710,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"19"
 			],
 			"BalanceTiers": [
 				0,
@@ -2762,7 +2781,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"3"
 			],
 			"BalanceTiers": [
 				0,
@@ -2889,7 +2908,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -3009,7 +3028,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -3183,7 +3202,7 @@
 		{
 			"Name": "The Judgment",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
