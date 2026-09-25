@@ -1,6 +1,6 @@
 {
 	"Name": "Arcana League",
-	"Version": 1790210223,
+	"Version": 1790300827,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -264,6 +264,7 @@
 				"61",
 				"67",
 				"69",
+				"76",
 				"77",
 				"80",
 				"82",
